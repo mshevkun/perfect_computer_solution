@@ -3,7 +3,7 @@
 This is a company website for **Perfect Computer Solutions**, providing IT consulting and software development services.
 
 ## 🌍 Live
-(https://perfectcomputersolutions.com/)
+https://perfectcomputersolutions.com
 
 ---
 
